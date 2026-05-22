@@ -142,7 +142,19 @@ Contributions are reviewed against several standards:
 
 Contributors are acknowledged in the framework's release notes for each version. Substantial contributions (significant jurisdictional expansion, major requirement refinements, significant tool implementations) may be acknowledged in the README's acknowledgements section.
 
-Contributors retain copyright in their contributions but license those contributions under the same CC BY-SA 4.0 license as the framework. By submitting a contribution, you agree to this licensing.
+Contributors retain copyright in their contributions but license those contributions under the same CC BY-NC-SA 4.0 license as the framework. By submitting a contribution, you agree to this licensing.
+
+A note for contributors who want to use their own contributions commercially: contributors retain the right to use their own contributions in their own commercial work (for example, a sustainability consultant who contributes a citation update can still reference their own contribution in their consulting practice). What contributors cannot do — under the framework's license — is take the framework as a whole (including others' contributions) and use it commercially without a separate commercial license. The CC BY-NC-SA license applies to derivative works and to redistribution of the framework, not to the contributor's own subsequent use of their own contributed material.
+
+---
+
+## Commercial use
+
+If your contribution is part of a broader commercial use of the framework (you're contributing as part of consulting work derived from the framework, or you intend to build a commercial offering on the framework), this is a commercial use scenario that requires a separate commercial license. See `LICENSE` for details.
+
+Contributing technically and using the framework commercially are separate decisions. You can contribute citation updates, jurisdictional expansion, requirement refinements, or documentation improvements as standard contributions regardless of how you use the framework personally. But if your professional practice substantively builds on the framework (consulting offering, training program, productized tool), you need a commercial license alongside any contribution work.
+
+For commercial licensing inquiries, contact natalia@humanaipolicy.org.
 
 ---
 
@@ -150,9 +162,9 @@ Contributors retain copyright in their contributions but license those contribut
 
 For technical contributions and pull requests, use GitHub issues and pull requests in this repository.
 
-For substantive feedback that is not appropriate as a pull request (general feedback, pilot testing observations, concerns about specific positions), use the structured feedback form at [feedback form URL] or contact the maintainer at [contact email].
+For substantive feedback that is not appropriate as a pull request (general feedback, pilot testing observations, concerns about specific positions), use the structured feedback form on the website at humanaipolicy.org/contact or contact the maintainer at natalia@humanaipolicy.org.
 
-For confidential feedback (including pilot company experiences that should not be public, sensitive observations about specific commercial implementations), use the email contact at [contact email] with "confidential" in the subject line. Confidential feedback is handled outside the public contribution process.
+For confidential feedback (including pilot company experiences that should not be public, sensitive observations about specific commercial implementations), use the email contact natalia@humanaipolicy.org with "confidential" in the subject line. Confidential feedback is handled outside the public contribution process.
 
 For visibility and community engagement, the framework is discussed on LinkedIn and other professional channels. Engaging there is welcome but not a substitute for the contribution channels above.
 
@@ -175,8 +187,8 @@ The framework does not currently operate a formal Code of Conduct document. As t
 
 Questions about the contribution process should be opened as GitHub issues with the "question" label. Questions about specific framework substance should be opened as issues with the appropriate substantive label (jurisdictional, citation, requirement, etc.).
 
-For broader questions about the framework's direction, future development, or governance, contact the maintainer at [contact email].
+For broader questions about the framework's direction, future development, or governance, contact the maintainer at natalia@humanaipolicy.org.
 
 ---
 
-*This document is licensed under CC BY-SA 4.0, the same license as the framework specification. It may be adapted for similar frameworks, with appropriate attribution.*
+*This document is licensed under CC BY-NC-SA 4.0, the same license as the framework specification. It may be adapted for similar frameworks with appropriate attribution, for non-commercial use. Commercial adaptation requires separate licensing — contact natalia@humanaipolicy.org.*
