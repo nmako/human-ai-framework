@@ -2,6 +2,11 @@
 
 **An open-source specification for integrating AI governance with Human Rights Due Diligence (HRDD)**
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+The working tool: [humanaipolicy.org](https://humanaipolicy.org)
+
+
 ---
 
 ## What this is
