@@ -124,7 +124,6 @@ The framework takes several positions that distinguish it from typical AI ethics
 ```
 .
 ├── README.md                                  This file
-├── 00_rubric_scope.md                         Scope and methodology of the framework
 ├── 01_rubric_configuration_model.md           How the framework adapts to companies (Axes 1-3, questionnaire, output spec)
 ├── 02_generator_configuration.md              Voice, document structure, runtime behavior of the Generator
 ├── 03_translation_layer.md                    AI Act ↔ HRDD logic interaction
