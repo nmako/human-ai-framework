@@ -1,0 +1,171 @@
+# Legal disclaimer language
+
+**For the Human-AI Governance Framework tool and website**
+**Version 0.2 — for launch**
+
+---
+
+## Changelog
+
+### v0.2 — current
+
+- **License framing updated** to reflect the dual-licensing arrangement: CC BY-NC-SA 4.0 for non-commercial use, with separate commercial licenses available. The previous version used "open source and publicly available" framing which was inaccurate now that the license is non-commercial. Updates in Versions 2 and 3 of the disclaimers.
+- **Real contact email and URL substituted** for placeholders: natalia@humanaipolicy.org and humanaipolicy.org.
+
+### v0.1
+Initial draft. Three calibrated versions: footer (27 words), pre-questionnaire intro (~380 words with checkbox acknowledgement), embedded in generated policy (full ~330 words + short ~50 words for companion artefacts).
+
+---
+
+## Overview
+
+Three versions of disclaimer language for three distinct contexts where the tool appears:
+
+1. **Footer disclaimer** — one line, appears on every page of the website
+2. **Pre-questionnaire disclaimer** — appears before the user starts the questionnaire, requires acknowledgement (checkbox or "I understand" button) before proceeding
+3. **Embedded disclaimer in generated policies** — appears in every generated Human-AI Policy, Code of Conduct addition, and Own Workforce Policy addition
+
+Each version is calibrated to its context: short enough to read, specific enough to protect, and consistent in tone with the framework's plain-English voice.
+
+---
+
+## Version 1 — Footer disclaimer (one line, every page)
+
+> *This framework provides recommendations and best-practice guidance, not legal advice. Consult qualified legal counsel and your internal compliance function before adopting any policy generated here.*
+
+**Where it appears:** Footer of every page of the website, in small but legible text. Visible without scrolling on most page templates.
+
+**Word count:** 27 words.
+
+---
+
+## Version 2 — Pre-questionnaire disclaimer (visible before starting)
+
+Appears on the questionnaire intro page, before the user begins answering questions. Requires acknowledgement (checkbox: "I have read and understood the limitations of this tool") before the user can proceed.
+
+---
+
+> **Before you start: what this tool is, and what it isn't**
+>
+> This tool produces a draft Human-AI policy and related artefacts based on your answers to a structured questionnaire. The output reflects best-practice recommendations drawn from binding instruments (the EU AI Act, GDPR, the Norwegian Transparency Act, the CSDDD, and others), established methodologies (UN Guiding Principles on Business and Human Rights, OECD Guidelines for Multinational Enterprises), and the framework's own normative positions on responsible AI use.
+>
+> **What this tool is:**
+>
+> - A diagnostic and policy generation tool that produces foundation language adapted to your organization's profile.
+> - A structured way to think through AI governance commitments across twelve substantive areas.
+> - A starting point for internal discussion, policy drafting, and engagement with your existing governance functions.
+>
+> **What this tool is not:**
+>
+> - This is not legal advice. The tool does not assess your specific legal obligations; it provides recommendations based on the profile information you supply.
+> - This is not a finished policy ready for adoption. The output is a draft requiring your own review, refinement, and approval through your normal policy adoption processes.
+> - This is not a substitute for qualified review. Before adopting any policy generated here, you should consult:
+>   - **Qualified legal counsel** on regulatory compliance (AI Act, GDPR, applicable HRDD law, sector-specific regulation)
+>   - **Your Data Protection Officer** (where one is appointed) on data protection commitments
+>   - **Your HR or People function** on worker-affecting commitments
+>   - **Your sustainability or human rights function** on HRDD-related commitments
+>   - **Your IT and Information Security function** on operational AI deployment commitments
+>   - **Your board, leadership, or appropriate governance body** before final adoption
+>
+> **Confidentiality and data handling:**
+>
+> - The answers you provide and any documents you upload are processed to generate your policy. [Add specific data handling commitments here based on your platform implementation — for example: "We do not store your responses or uploaded documents beyond the duration of your session" or "We retain your responses for [duration] for the purpose of [reason]." This language must match your actual data handling.]
+> - The framework specification (the underlying rubric and architecture documents) is publicly available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. Commercial uses require separate licensing — see the framework's LICENSE for details. Your specific inputs and outputs are not.
+>
+> By proceeding, you acknowledge that you have read and understood these limitations.
+>
+> *[Checkbox] I have read and understood the limitations of this tool.*
+
+---
+
+**Word count:** approximately 380 words.
+
+**Note on the data handling paragraph:** I have inserted placeholder language because the specific commitments depend on how you build the platform. If you store user inputs (in Lovable's database, or anywhere), the disclaimer needs to say so honestly. If you don't, the disclaimer should say that. This paragraph must match your actual technical implementation — get the data handling commitment right before launch.
+
+---
+
+## Version 3 — Embedded disclaimer in generated policies
+
+This disclaimer appears in every Human-AI Policy generated by the tool, in a designated section near the front of the document (after the title and adoption statement, before Part 1 substantive content). It also appears in abbreviated form in the Code of Conduct addition and Own Workforce Policy addition.
+
+### Full version (for the Human-AI Policy)
+
+> **About this document**
+>
+> This Human-AI policy was generated using the Human-AI Governance Framework, an open-source diagnostic and policy generation tool. The framework integrates AI governance with Human Rights Due Diligence (HRDD) and is anchored on binding instruments (the EU AI Act, GDPR, the Norwegian Transparency Act, the CSDDD, and related laws applicable to the company's jurisdictions) and global voluntary standards (UN Guiding Principles on Business and Human Rights, OECD Guidelines for Multinational Enterprises, ILO Conventions, the Council of Europe Framework Convention on Artificial Intelligence, ISO/IEC 42001, and the UNESCO Recommendation on the Ethics of Artificial Intelligence).
+>
+> This document is a draft. It provides foundation language adapted to the company's profile based on responses to a structured questionnaire. The draft is intended as a starting point for internal review, refinement, and adoption through the company's normal policy adoption processes.
+>
+> **This document does not constitute legal advice.** Before adopting this policy, the company should obtain qualified legal review and consultation with relevant internal functions — including legal counsel, Data Protection Officer, HR, sustainability or human rights, IT and Information Security, and the appropriate governance body — on:
+>
+> - Compliance with applicable binding law (EU AI Act, GDPR, applicable HRDD instruments, sector-specific regulation)
+> - Alignment with existing company policies and commitments
+> - Operational feasibility of specific commitments
+> - Cross-referenced internal policies named in this document
+> - Specific role-holder names, governance body composition, and accountability allocations
+>
+> Where this draft references placeholder content (such as *[CEO name]*, *[applicable HRDD law]*, or *[specific channel name]*), the company must populate this content before adoption.
+>
+> The framework specification underlying this document is publicly available at humanaipolicy.org under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. The specification documents the framework's normative positions, source citations per requirement, and architectural design. Commercial uses of the framework — including consulting practices, training programs, or commercial tools derived from it — require separate licensing; contact natalia@humanaipolicy.org for commercial license inquiries.
+>
+> *Generated using the Human-AI Governance Framework, version 1.0. Generation date: [date].*
+
+---
+
+**Word count:** approximately 330 words.
+
+### Short version (for the Code of Conduct addition and Own Workforce Policy addition)
+
+The companion artefacts (Code of Conduct addition, Own Workforce Policy addition) are designed to be inserted into existing company policies. A full disclaimer would be out of place. A short note suffices:
+
+> *This text was drafted using the Human-AI Governance Framework. It is suggested language for adaptation into your existing [Code of Conduct / Own Workforce Policy]. Review with qualified legal counsel and your relevant internal functions before adoption. The framework specification is available at humanaipolicy.org.*
+
+---
+
+**Word count:** 51 words.
+
+---
+
+## Placement guidance
+
+**Footer disclaimer (Version 1):** Footer of every website page, including the landing page, the questionnaire pages, the about page, and the results/output page. Visible without scrolling on most viewports. Style: small text, but legible — typically 11–12px, neutral color, sufficient contrast for accessibility.
+
+**Pre-questionnaire disclaimer (Version 2):** Standalone page or modal appearing immediately before the user begins the questionnaire. Requires explicit acknowledgement (checkbox + button) before the user can proceed. Cannot be skipped or hidden. Should also be linkable from the footer so users can re-read it at any time.
+
+**Embedded disclaimer in generated policy (Version 3 full version):** First substantive content after the policy title and adoption statement. Before Part 1 executive commitments. Clearly distinguished from policy content (boxed, italicized, or otherwise visually separated).
+
+**Embedded disclaimer in companion artefacts (Version 3 short version):** At the top of each generated companion artefact, as the first content. Visually distinguished from the suggested policy language.
+
+---
+
+## Tone notes for design
+
+The disclaimers should not feel hostile or defensive. The framework's overall voice is plain English and approachable; the disclaimers should match. A user encountering Version 2's pre-questionnaire disclaimer should come away thinking "this is a serious tool that takes itself seriously and respects me as the user" — not "this is a CYA exercise." That tone calibration is achieved through:
+
+- Plain English, no Latin phrases, no all-caps warnings
+- Active voice, first-person plural ("we") where the tool is speaking
+- Structured layout (headers, lists) rather than dense paragraphs of legalese
+- Specific guidance ("consult your DPO," "consult your HR function") rather than generic ("seek appropriate counsel")
+- Honest about what the tool is *for* alongside what it isn't
+
+---
+
+## What this disclaimer does and doesn't cover
+
+**Does cover:**
+
+- Limitation of the tool's output (recommendations, not legal advice)
+- The user's responsibility to obtain qualified review before adoption
+- Specific functions the user should consult
+- Acknowledgement that the output is a draft
+- Reference to the open-source framework specification
+- Data handling commitments (placeholder; you fill in)
+
+**Does not cover (and may need separate language depending on jurisdiction):**
+
+- **Privacy policy / GDPR compliance for the website itself.** If your platform processes any personal data (even just IP addresses for analytics), you need a separate Privacy Policy document. This is independent of the disclaimer above.
+- **Terms of service.** If you want to limit liability, govern dispute resolution, or set usage terms beyond what the disclaimer covers, a separate Terms of Service is appropriate.
+- **Cookie consent (if EU/EEA-served).** If the website serves EU/EEA users and uses cookies (analytics, session management), GDPR-compliant cookie consent is required separately.
+- **Accessibility statement.** Some jurisdictions require accessibility statements for public-facing tools.
+
+**Recommendation:** Before launch, get qualified legal review of the disclaimer language above plus the separate Privacy Policy / Terms of Service / Cookie consent / Accessibility statement language. The framework's lawyer-careful tone in the disclaimer doesn't substitute for actual legal review.
